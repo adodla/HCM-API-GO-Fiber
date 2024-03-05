@@ -1,5 +1,5 @@
 
-# HCM API using Fiber Framework in GO
+# HCM(Human Capital Management) API using Fiber Framework in GO
 
 This repository has an API implementation for a Human Resource Management System (HRMS) using the Fiber web framework in Go. The API provides CRUD (Create, Read, Update, Delete) operations for managing employee records stored in a MongoDB database.
 
