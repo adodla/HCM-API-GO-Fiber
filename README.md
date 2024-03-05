@@ -63,6 +63,19 @@ Here are some examples:
 
 Feel free to explore and test the API using different HTTP methods and data.
 
+## Steps to execute on Local
+
+Clone the repository:
+Install the required dependencies:
+Configure MongoDB:
+
+Ensure that MongoDB is running on your local machine.
+Update the mongoURI constant in the code (main.go) if your MongoDB instance is running on a different host or port.
+Build and run the application:
+
+go run main.go
+The application will start and listen on localhost:3000.
+
 ## Conclusion
 
 The Fiber HCM API provides a basic implementation for managing employee records. It demonstrates the usage of the Fiber web framework and integration with MongoDB. You can further extend and customize the API based on your HCM requirements or integrate it into larger systems.
